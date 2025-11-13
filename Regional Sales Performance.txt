@@ -1,0 +1,17 @@
+Regional Sales Performance:
+
+The West region has the highest sales, clearly outperforming all other regions.
+
+The South region shows the lowest sales, indicating a potential area for growth or targeted marketing.
+
+Category-Wise Sales Distribution:
+
+Technology products contribute the largest share of total sales (≈36%).
+
+Office Supplies and Furniture follow closely with nearly equal shares (~32% each), suggesting a well-balanced product mix overall.
+
+Sales Trend Over Time:
+
+Sales show a strong upward trend towards the end of 2011, peaking around December 2011.
+
+There’s a sharp decline in early 2012, followed by fluctuating sales with moderate recovery later in the year — indicating possible seasonal demand or year-end promotions driving the earlier spike.
